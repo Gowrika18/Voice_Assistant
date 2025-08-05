@@ -19,7 +19,7 @@ This is a Python-based Voice Assistant. It can perform a variety of tasks such a
 3. python main.py
 
 🧪 Technologies Used
-Python 3.x, pyttsx3, speechrecognition, pywhatkit, Wikipedia, pyjokes, smtplib,   threading,datetime
+Python 3.x, pyttsx3, speechrecognition, pywhatkit, Wikipedia, pyjokes, smtplib,   threading,datetime.
 
 🔗 Connect with Me
 LinkedIn : https://www.linkedin.com/in/gowrika-kuckian-36950a259  
